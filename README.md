@@ -35,7 +35,7 @@ I first started off adding the color variables and looking at the style guide to
 
 ### What I have learned
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+I learned more about Git because I was having merge issues, and I learned more about Flexbox and as well as variables and horizontal rules. Image inner border was also something I learned while doing this challenge. Overall, I've learned lots of valuable info on this challenge. :)
 
 ### Continued development
 
