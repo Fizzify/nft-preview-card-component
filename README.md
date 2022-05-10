@@ -15,10 +15,12 @@ Users should be able to:
 
 ### Screenshot
 
+![image](https://user-images.githubusercontent.com/79361847/167588287-2520f64b-09df-47fc-8b5a-d38d1a6547c2.png)
+
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/card-using-flexbox-to-center-and-variables-for-colors-BJ0VLiwL5](https://www.frontendmentor.io/solutions/card-using-flexbox-to-center-and-variables-for-colors-BJ0VLiwL5)
+- Live Site URL: [https://nft-preview-card-component-fizzify.netlify.app/](https://nft-preview-card-component-fizzify.netlify.app/)
 
 ## My process
 
