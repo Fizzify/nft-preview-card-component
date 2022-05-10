@@ -38,6 +38,43 @@ p {
   width: 100%;
 }
 
+.equilibrium:hover {
+  background-color: var(--cyan);
+}
+
+.layer {
+  height: 350px;
+  width: 350px;
+  position: absolute;
+  border-radius: 10px;
+  transition: 0.3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.layer:hover {
+  background-color: hsla(178, 100%, 50%, 60%);
+}
+
+.layer:hover .view {
+  opacity: 1;
+}
+
+.view {
+  width: 15%;
+  opacity: 0;
+}
+
+.equilibrium-title {
+  cursor: pointer;
+}
+
+.equilibrium-title:hover {
+  color: var(--cyan);
+  transition: 0.3s ease;
+}
+
 .equilibrium-info {
   width: 100%;
   font-size: 21px;
@@ -89,4 +126,13 @@ p {
   height: 1px;
   color: var(--line-color);
   background-color: var(--line-color);
+}
+
+.nft-creator {
+  cursor: pointer;
+}
+
+.nft-creator:hover {
+  color: var(--cyan);
+  transition: 0.3s ease;
 }
